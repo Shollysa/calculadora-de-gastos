@@ -1,0 +1,40 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: url('https://img.freepik.com/vector-gratis/fondo-abstracto-liquido-degradado_23-2148939140.jpg?semt=ais_hybrid&w=740') no-repeat center center fixed;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+/* Fondo oscuro para contraste */
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0);
+  padding: 30px 20px;
+  border-radius: 12px;
+}
+
+/* Títulos */
+h1, h4 {
+  color: #fff;
+}
+
+/* Formulario */
+.form-control, .form-select {
+  border-radius: 8px;
+}
+
+/* Botón */
+.btn-success {
+  border-radius: 8px;
+}
+
+/* Tabla */
+.table {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #000;
+}
+
+.table thead {
+  background-color: #f1f1f1;
+}
